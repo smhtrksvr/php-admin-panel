@@ -2,7 +2,7 @@
 $host = 'localhost';
 $dbname = 'fotograf';
 $username = 'root';
-$password = 'se09mih08';
+$password = '123456';
 $charset = 'utf8';
 //$collate = 'utf8_unicode_ci';
 $dsn = "mysql:host=$host;dbname=$dbname;charset=$charset";
