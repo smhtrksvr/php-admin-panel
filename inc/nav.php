@@ -21,7 +21,7 @@
                 <li class="nav-item px-lg-4 <?php echo $sayfa == 'Hakkımızda' ? 'active' : '' ?>">
                     <a class="nav-link text-uppercase text-expanded" href="hakkimizda.php">Hakkımda</a>
                 </li>
-                <li class="nav-item px-lg-4 <?php echo $sayfa == 'Ürünler' ? 'active' : '' ?>">
+                <li class="nav-item px-lg-4 <?php echo $sayfa == 'Fotoğraflar' ? 'active' : '' ?>">
                     <a class="nav-link text-uppercase text-expanded" href="fotograf.php">Fotoğraflarım</a>
                 </li>
                 <li class="nav-item px-lg-4 <?php echo $sayfa == 'İletişim' ? 'active' : '' ?>">
